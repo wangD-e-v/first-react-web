@@ -1,4 +1,4 @@
-![Project Logo](first-react-web/src/assets/Screenshot 2025-01-27 155052.png)
+![Project Logo](assets/Screenshot-2025-01-27-155052.png)
 
 # React + TypeScript + Vite
 
