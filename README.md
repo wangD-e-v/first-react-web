@@ -1,3 +1,5 @@
+![Project Logo](first-react-web/src/assets/Screenshot 2025-01-27 155052.png)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
