@@ -1,6 +1,4 @@
-![Image Alt Text](https://raw.githubusercontent.com/wangD-e-v/first-react-web/blob/main/src/assets/Screenshot%202025-01-27%20155052.png)
 
-wangD-e-v/first-react-web/blob/main/src/assets/Screenshot%202025-01-27%20155052.png
 
 # React + TypeScript + Vite
 
