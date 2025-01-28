@@ -1,5 +1,33 @@
 @import "tailwindcss";
 
-h1{
-    color:black;
-}
+
+/* Light Mode */
+.bg-gray-100 {
+    background-color: #f7fafc;
+  }
+  
+  .text-black {
+    color: #2d3748;
+  }
+  
+  /* Dark Mode */
+  .bg-gray-900 {
+    background-color: #1a202c;
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  .bg-blue-600 {
+    background-color: #3182ce;
+  }
+  
+  .bg-blue-800 {
+    background-color: #2b6cb0;
+  }
+  
+  .bg-blue-900 {
+    background-color: #2b3e56;
+  }
+  
