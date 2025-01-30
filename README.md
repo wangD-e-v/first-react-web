@@ -2,10 +2,10 @@
 
 <br>
 
-<section>
-  `Step1: npm install`
-  `Step2: npm run dev`
-</section>
+# git clone https://github.com/wangD-e-v/first-react-web/
+# cd first-react-web
+# npm install
+# npm run dev
 
 <div align="center"> 
   <a href="mailto:wang.dev6@gmail.com">
