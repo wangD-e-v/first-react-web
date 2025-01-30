@@ -2,10 +2,14 @@
 
 <br>
 
-# git clone https://github.com/wangD-e-v/first-react-web/
-# cd first-react-web
-# npm install
-# npm run dev
+# Step1: git clone https://github.com/wangD-e-v/first-react-web/
+# Step2: cd first-react-web
+# Step3: npm install
+# Step4: npm run dev
+<br>
+<br>
+
+
 
 <div align="center"> 
   <a href="mailto:wang.dev6@gmail.com">
